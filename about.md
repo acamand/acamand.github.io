@@ -81,19 +81,20 @@ permalink: /about/
     color: #666;
     margin-right: 8px;
   }
-  .back-link {
-    display: inline-block;
-    margin: 20px 0;
-    padding: 10px 20px;
-    font-family: Georgia, serif;
-    font-size: 14px;
-    color: #666;
-    text-decoration: none;
-    border: 1px solid #ddd;
-    border-radius: 30px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    transition: all 0.3s ease;
+ .back-link {
+  display: inline-block;
+  margin: 20px 0;
+  padding: 6px 16px;
+  font-family: Georgia, serif;
+  font-size: 12px;
+  color: #888;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+}
   }
   .back-link:hover {
     background: #1a1a1a;
