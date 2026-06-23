@@ -67,6 +67,20 @@ permalink: /about/
   .about-content a:hover {
     border-bottom-color: #1a1a1a;
   }
+  .contact-info {
+    margin-top: 24px;
+    padding-top: 24px;
+    border-top: 1px solid #ddd;
+  }
+  .contact-info p {
+    margin-bottom: 12px;
+    text-align: left;
+  }
+  .contact-info i {
+    width: 24px;
+    color: #666;
+    margin-right: 8px;
+  }
 </style>
 
 <div class="about-content" markdown="1">
@@ -103,6 +117,9 @@ También trabajo bajo el concepto **Workaway**, intercambiando mi trabajo por al
 
 Si buscas un fotógrafo que combine creatividad, movilidad y profesionalismo en cada proyecto, estaré encantado de colaborar contigo.
 
-Instagram: [@nomadinpics](https://www.instagram.com/nomadinpics)
+<div class="contact-info">
+  <p><i class="fa fa-envelope"></i> <a href="mailto:nomadinpics@gmail.com">nomadinpics@gmail.com</a></p>
+  <p><i class="fa fa-instagram"></i> <a href="https://www.instagram.com/nomadinpics" target="_blank">@nomadinpics</a></p>
+</div>
 
 </div>
