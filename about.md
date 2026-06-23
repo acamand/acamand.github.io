@@ -81,20 +81,18 @@ permalink: /about/
     color: #666;
     margin-right: 8px;
   }
- .back-link {
-  display: inline-block;
-  margin: 20px 0;
-  padding: 6px 16px;
-  font-family: Georgia, serif;
-  font-size: 12px;
-  color: #888;
-  text-decoration: none;
-  border: 1px solid #ddd;
-  border-radius: 20px;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  transition: all 0.3s ease;
-}
+  .back-link {
+    display: inline-block;
+    padding: 6px 16px;
+    font-family: Georgia, serif;
+    font-size: 12px;
+    color: #888;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
   }
   .back-link:hover {
     background: #1a1a1a;
@@ -102,21 +100,22 @@ permalink: /about/
     border-color: #1a1a1a;
     border-bottom-color: #1a1a1a !important;
   }
-  .back-link-top {
-    display: block;
+  .back-link-wrapper {
     text-align: center;
+  }
+  .back-link-wrapper-top {
     margin-bottom: 40px;
   }
-  .back-link-bottom {
-    display: block;
-    text-align: center;
+  .back-link-wrapper-bottom {
     margin-top: 60px;
   }
 </style>
 
 <div class="about-content" markdown="1">
 
-<a href="/" class="back-link back-link-top">← Ver galería</a>
+<div class="back-link-wrapper back-link-wrapper-top">
+  <a href="/" class="back-link">← Ver galería</a>
+</div>
 
 <img src="/images/about/alvaro.jpg" alt="Álvaro C. A." class="about-photo">
 
@@ -155,6 +154,8 @@ Si buscas un fotógrafo que combine creatividad, movilidad y profesionalismo en 
   <p><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/nomadinpics" target="_blank">@nomadinpics</a></p>
 </div>
 
-<a href="/" class="back-link back-link-bottom">← Ver galería</a>
+<div class="back-link-wrapper back-link-wrapper-bottom">
+  <a href="/" class="back-link">← Ver galería</a>
+</div>
 
 </div>
