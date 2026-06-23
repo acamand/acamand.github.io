@@ -119,7 +119,7 @@ Si buscas un fotógrafo que combine creatividad, movilidad y profesionalismo en 
 
 <div class="contact-info">
   <p><i class="fa fa-envelope"></i> <a href="mailto:nomadinpics@gmail.com">nomadinpics@gmail.com</a></p>
-  <p><i class="fa fa-instagram"></i> <a href="https://www.instagram.com/nomadinpics" target="_blank">@nomadinpics</a></p>
+  <p><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/nomadinpics" target="_blank">@nomadinpics</a></p>
 </div>
 
 </div>
