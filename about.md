@@ -129,15 +129,15 @@ Mi pasión por la fotografía está profundamente ligada a los viajes. He explor
 
 El resto del año, distintos destinos internacionales me permiten ampliar mi mirada y trabajar en escenarios muy diversos.
 
-## Lo que fotografío
+## Especialidades
 
-- Retratos
-- Lifestyle
-- Fotografía callejera
-- Inmobiliaria
-- Paisajes
+- **Retrato** — Personas reales en contextos auténticos.
+- **Lifestyle** — Momentos espontáneos que cuentan una historia.
+- **Calle** — La esencia de las ciudades y su gente.
+- **Inmobiliaria** — Espacios con luz, profundidad y carácter.
+- **Paisaje** — La inmensidad del mundo capturada con detalle.
 
-Combino técnica y creatividad para conseguir imágenes con impacto.
+Combino técnica y creatividad para conseguir imágenes con impacto, adaptándome a cada proyecto sin perder identidad.
 
 ## Colaboraciones
 
