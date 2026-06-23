@@ -14,6 +14,15 @@ permalink: /about/
     line-height: 1.75;
     color: #2c2c2c;
   }
+  .about-photo {
+    display: block;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 40px auto;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+  }
   .about-content h1 {
     font-size: 48px;
     font-weight: 300;
@@ -61,6 +70,8 @@ permalink: /about/
 </style>
 
 <div class="about-content" markdown="1">
+
+<img src="/images/about/alvaro.jpg" alt="Álvaro C. A." class="about-photo">
 
 # Sobre mí
 
