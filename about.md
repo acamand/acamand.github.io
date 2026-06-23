@@ -81,9 +81,41 @@ permalink: /about/
     color: #666;
     margin-right: 8px;
   }
+  .back-link {
+    display: inline-block;
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-family: Georgia, serif;
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+    border: 1px solid #ddd;
+    border-radius: 30px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+  }
+  .back-link:hover {
+    background: #1a1a1a;
+    color: #fff;
+    border-color: #1a1a1a;
+    border-bottom-color: #1a1a1a !important;
+  }
+  .back-link-top {
+    display: block;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .back-link-bottom {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+  }
 </style>
 
 <div class="about-content" markdown="1">
+
+<a href="/" class="back-link back-link-top">← Ver galería</a>
 
 <img src="/images/about/alvaro.jpg" alt="Álvaro C. A." class="about-photo">
 
@@ -121,5 +153,7 @@ Si buscas un fotógrafo que combine creatividad, movilidad y profesionalismo en 
   <p><i class="fa fa-envelope"></i> <a href="mailto:nomadinpics@gmail.com">nomadinpics@gmail.com</a></p>
   <p><i class="fab fa-instagram"></i> <a href="https://www.instagram.com/nomadinpics" target="_blank">@nomadinpics</a></p>
 </div>
+
+<a href="/" class="back-link back-link-bottom">← Ver galería</a>
 
 </div>
