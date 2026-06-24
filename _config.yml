@@ -7,7 +7,7 @@ url: "https://nomadinpics.com"
 # baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
+google_analytics: "G-L19RMR497D"
 
 # UI configs
 title: "Nomad in Pics"
